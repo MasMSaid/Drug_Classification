@@ -66,7 +66,7 @@ Source: Drug200.csv
 
 - Dataset characteristics: High accuracy across multiple models suggests the classification problem is relatively straightforward.
 
-- Caution: Perfect accuracy in tree-based models may indicate potential overfitting due to the small dataset size.
+- Caution: Perfect accuracy in tree-based models may indicate potential overfitting due to the small dataset size (200 observables).
 
 
 ## 📊 Model Performance Comparison
