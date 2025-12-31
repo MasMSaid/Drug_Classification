@@ -99,6 +99,7 @@ Source: Drug200.csv
 ## 🚀 How to Run
 
 pip install -r requirements.txt
+
 jupyter notebook Drug_Prescription_Multiclass_Classification.ipynb
 
 
