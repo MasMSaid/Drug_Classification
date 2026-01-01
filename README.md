@@ -85,7 +85,7 @@ Source: Drug200.csv
 
 
 
-## 🛠️ Technologies Used
+## 🛠️ Tools
 
 - Python
 
@@ -97,7 +97,7 @@ Source: Drug200.csv
 
 
 ## 🚀 How to Run
-
+```bash
 pip install -r requirements.txt
 
 jupyter notebook Drug_Prescription_Multiclass_Classification.ipynb
