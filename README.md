@@ -96,6 +96,11 @@ Source: Drug200.csv
 - Pandas, NumPy, Matplotlib, Seaborn
 
 
+## ✅ Summary
+
+This project demonstrates a full workflow for multiclass classification: data preprocessing, model comparison, hyperparameter tuning, evaluation, and feature importance analysis. It provides hands-on experience with both linear and non-linear models, ensemble methods, and distance-based classifiers—making it a strong portfolio piece for machine learning and data science roles.
+
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
@@ -103,6 +108,3 @@ pip install -r requirements.txt
 jupyter notebook Drug_Prescription_Multiclass_Classification.ipynb
 
 
-## ✅ Summary
-
-This project demonstrates a full workflow for multiclass classification: data preprocessing, model comparison, hyperparameter tuning, evaluation, and feature importance analysis. It provides hands-on experience with both linear and non-linear models, ensemble methods, and distance-based classifiers—making it a strong portfolio piece for machine learning and data science roles.
